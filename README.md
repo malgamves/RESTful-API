@@ -1,5 +1,5 @@
-# Simple-API
-Simple API to query data from an online MongoDB database.
+# RESTful-API
+API to query data from a MongoDB database.
 
 The MongoDB datbase uses data from the `individuals.json.gz` file cointaned in the SummerOfCodeImages [repository](https://github.com/FreeUKGen/SummerOfCodeImages/tree/master/freecen_subset/data). 
 
